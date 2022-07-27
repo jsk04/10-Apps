@@ -1,5 +1,5 @@
 """
-    Detect moving objects and making a graph of this motion
+    Detecting moving objects and making a graph of the motion
 """
 
 import cv2, time, pandas
